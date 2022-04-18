@@ -20,6 +20,9 @@ with source_data as (
 select *
 from source_data
 
+select *
+from source_data1
+
 /*
     Uncomment the line below to remove records with null `id` values
 */
